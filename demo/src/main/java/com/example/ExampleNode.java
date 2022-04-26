@@ -1,4 +1,4 @@
-package com.tree;
+package com.example;
 
 // node for a binary search tree
 class Node {
